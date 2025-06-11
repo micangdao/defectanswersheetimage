@@ -1,5 +1,5 @@
 # defectanswersheetimage
-This dataset includes four typical defects, cloud blemish, pen scratch, rubbing smudge and scanned line in scanned image of Chinese answer sheet. All the sample image can be downloaded from baidu disk https://pan.baidu.com/s/188C6h-tUufLFC78zk9cW4w?pwd=iuvj
+This dataset includes four typical defects, cloud blemish, pen scratch, rubbing smudge and scanned line in scanned image of Chinese answer sheet. All the sample images can be downloaded from baidu disk https://pan.baidu.com/s/188C6h-tUufLFC78zk9cW4w?pwd=iuvj
 
 1. Cloud blemish is one kind of defects, which is like cloud and exists in random position. One sample image with cloud blemish is shown as below. 
 ![1](https://github.com/user-attachments/assets/38338736-d611-4541-8427-c982178f7d5e)
